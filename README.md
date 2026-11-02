@@ -1,14 +1,16 @@
 # Hi, I'm Kangsan 👋
 
-I'm an M.S. student in Industrial Engineering at **Seoul National University (LET Lab)**. I study **automotive HCI and human factors**, with a focus on vehicle UX/HMI, passenger comfort, and motion sickness.
+I'm an M.S. student in Industrial Engineering at **Seoul National University (LET Lab)**, studying automotive HCI, vehicle UX/HMI, and human factors.
+
+I received my B.S. in **Industrial & Management Engineering from Korea University** in 2026. Before joining SNU, I was an **undergraduate research intern at KAIST's Interactive Computing Laboratory (ICLab)** (July 2025–February 2026), where I worked on CARLA-based driving simulation and behavioral measures.
 
 ### Research interests
 
 - Vehicle interfaces for drivers and passengers in automated mobility
-- Visual and auditory cues, cabin displays, and non-driving-related tasks
+- Passenger comfort, motion sickness, and visual and auditory cues
 - Driving simulator experiments, eye tracking, telemetry, and usability evaluation
 
-### Experience
+### Selected experience
 
 - **Passenger comfort:** Contributed to study design for motion-sickness-reducing vehicle UX and multimodal cues.
 - **Driving behavior:** Built CARLA-based scenarios and defined event-level measures such as lane deviation, response latency, headway, and jerk.
